@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d0fd5e-0f20-4572-a6c6-7bff17b0de31" name="Default Changelist" comment="" />
+    <list default="true" id="b9d0fd5e-0f20-4572-a6c6-7bff17b0de31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uvs238G27ldmJroShZ3ZXcLzjQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -129,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576248192467</updated>
       <workItem from="1576248195515" duration="527000" />
-      <workItem from="1576248784894" duration="18592000" />
+      <workItem from="1576248784894" duration="18665000" />
     </task>
     <servers />
   </component>
@@ -145,38 +151,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576261911087" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1576270915559">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270915559" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1576270915558">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270915558" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1576270915558">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1576270952806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270915558" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1576270915558">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952806" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270915558" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576270916129">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270916129" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576270916128">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270916128" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576270916128">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270916128" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576270916128">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576270952807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270916128" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state x="741" y="230" key="RollbackChangesDialog" timestamp="1576271015291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="230" key="RollbackChangesDialog/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271015291" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
