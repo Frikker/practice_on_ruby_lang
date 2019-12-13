@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9d0fd5e-0f20-4572-a6c6-7bff17b0de31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task10.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task11.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task12.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task9.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Ruby.Task8">
-    <configuration name="Task2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby_training_skills" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Task2.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.Task9">
     <configuration name="Task3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby_training_skills" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -101,13 +91,27 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task9" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby_training_skills" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Task9.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.Task9" />
         <item itemvalue="Ruby.Task8" />
         <item itemvalue="Ruby.Task5" />
         <item itemvalue="Ruby.Task4" />
         <item itemvalue="Ruby.Task3" />
-        <item itemvalue="Ruby.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576248192467</updated>
       <workItem from="1576248195515" duration="527000" />
-      <workItem from="1576248784894" duration="18665000" />
+      <workItem from="1576248784894" duration="20553000" />
     </task>
     <servers />
   </component>
@@ -151,38 +155,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576261911087" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1576272922563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1576272922563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1576270952806">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1576272922563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952806" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1576272922563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576271035193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576271035193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576271035193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576270952807">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576271035193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576270952807" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
     <state x="741" y="230" key="RollbackChangesDialog" timestamp="1576271015291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,6 +217,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ruby_training_skills@Task9.rcov" NAME="Task9 Coverage Results" MODIFIED="1576272922357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task1_Task13_.rcov" NAME="Task1(Task13) Coverage Results" MODIFIED="1576254263219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task4.rcov" NAME="Task4 Coverage Results" MODIFIED="1576266411530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task3.rcov" NAME="Task3 Coverage Results" MODIFIED="1576256017740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
