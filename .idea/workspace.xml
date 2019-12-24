@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9d0fd5e-0f20-4572-a6c6-7bff17b0de31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Task10.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task11.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task12.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task9.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Task3.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Task4.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +31,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Ruby.Task9">
+  <component name="RunManager" selected="Ruby.Task4">
     <configuration name="Task3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby_training_skills" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -107,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.Task4" />
+        <item itemvalue="Ruby.Task3" />
         <item itemvalue="Ruby.Task9" />
         <item itemvalue="Ruby.Task8" />
         <item itemvalue="Ruby.Task5" />
-        <item itemvalue="Ruby.Task4" />
-        <item itemvalue="Ruby.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +138,9 @@
       <option name="presentableId" value="Default" />
       <updated>1576248192467</updated>
       <workItem from="1576248195515" duration="527000" />
-      <workItem from="1576248784894" duration="20553000" />
+      <workItem from="1576248784894" duration="20869000" />
+      <workItem from="1576317745115" duration="270000" />
+      <workItem from="1577194500317" duration="591000" />
     </task>
     <servers />
   </component>
@@ -155,38 +156,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576261911087" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1576272922563">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1576272922563">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1576272922563">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577195118182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1576272922563">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118182" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576272922563" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576271035193">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576271035193">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576271035193">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576271035193">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577195118183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1576271035193" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.48.1280.984@0.0.1920.1040" timestamp="1577195118183" />
     <state x="741" y="230" key="RollbackChangesDialog" timestamp="1576271015291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -202,6 +203,14 @@
             <option name="block-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/Task4.rb</url>
+          <line>19</line>
+          <properties myBlockOrdinal="-1">
+            <option name="block-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -219,8 +228,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task9.rcov" NAME="Task9 Coverage Results" MODIFIED="1576272922357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task1_Task13_.rcov" NAME="Task1(Task13) Coverage Results" MODIFIED="1576254263219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
-    <SUITE FILE_PATH="coverage/Ruby_training_skills@Task4.rcov" NAME="Task4 Coverage Results" MODIFIED="1576266411530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
-    <SUITE FILE_PATH="coverage/Ruby_training_skills@Task3.rcov" NAME="Task3 Coverage Results" MODIFIED="1576256017740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
+    <SUITE FILE_PATH="coverage/Ruby_training_skills@Task4.rcov" NAME="Task4 Coverage Results" MODIFIED="1577195105778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
+    <SUITE FILE_PATH="coverage/Ruby_training_skills@Task3.rcov" NAME="Task3 Coverage Results" MODIFIED="1577194605122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task2.rcov" NAME="Task2 Coverage Results" MODIFIED="1576254662202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task8.rcov" NAME="Task8 Coverage Results" MODIFIED="1576270915439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />
     <SUITE FILE_PATH="coverage/Ruby_training_skills@Task5.rcov" NAME="Task5 Coverage Results" MODIFIED="1576269636356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby_training_skills" />

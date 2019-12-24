@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 def sort_array(array)
+  return array if array.empty?
+
   min = array.min
   max = array.max
   array.each_with_index do |i, index|
@@ -11,6 +13,4 @@ def sort_array(array)
     end
   end
   array << min
-rescue
-  array
 end
